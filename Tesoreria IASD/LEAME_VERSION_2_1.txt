@@ -1,0 +1,36 @@
+SEISTEMA DE TESORERIA
+VERSION 2.1.1
+Marzo 2014
+
+Damos gracias a Dios por esta nueva version, donde podremos llevar el presupuesto de la iglesia,
+registrar gastos y aportes directos a los departamentos, ademas de otras mejoras.
+
+Se podrá registrar el monto inicial de cada cuenta, ingresando el monto en negativo como un gasto,
+o tambien ingresarlos en sobres en la parte de proyectos especifico.
+
+No modifique los nombres,los porcentajes o el destino de las cuentas mientras esta registrando sobres
+ya que puede dar resultados inesperados. Hagalo al comenzar una remesa.
+
+Ahora se podra consultar si esta disponible una version nueva del sistema,
+y si existe una nueva version se descarga automaticamente y se actualiza.
+Todo esto sin borrar ni alterar ningun dato.
+
+
+VERSION 2.0.18
+Corrige errores que se puedan presentar si el sistema es cerrado abruptamente, 
+por ejemplo si se corta la energia electrica.
+
+VERSION 2.0.20
+Se agrega comentario a los gastos.
+
+VERSION 2.0.21
+En el Balance ya no se muestran las cuentas e cero
+
+VERSION 2.1.1
+Vista previa de informes con tamaño adecuado
+Correccion de detalles
+
+
+
+Salvatore Lo Nardo
+salvatoredaniel3@hotmail.com
