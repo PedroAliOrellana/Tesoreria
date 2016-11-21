@@ -38,3 +38,8 @@ Error grave: código de excepción=C0000005 @ 18-09-2016 04:28:04 PM. Archivo de r
 Error grave: código de excepción=C0000005 @ 20-09-2016 09:31:14 AM. Archivo de registro de errores: C:\Users\HIJOS DE DIOS\Desktop\Nueva carpeta\Tesoreria IASD\VFP8Rerr.log
 	Llamado desde -  form1.command2.click line 0  { }
 	Llamado desde -  inicio line 0  { c:\users\hijos de dios\desktop\nueva carpeta\tesoreria iasd\tesorer.exe}
+
+
+Error grave: código de excepción=C0000005 @ 14-11-2016 10:35:19 AM. Archivo de registro de errores: C:\Users\Pedro\OneDrive\Documentos\GitHub\Tesoreria\Tesoreria IASD\VFP8Rerr.log
+	Llamado desde -  form1.command2.click line 0  { }
+	Llamado desde -  inicio line 0  { c:\users\pedro\onedrive\documentos\github\tesoreria\tesoreria iasd\tesorer.exe}
